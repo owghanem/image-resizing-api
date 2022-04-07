@@ -42,7 +42,7 @@ npm run lint
 Method: `get`
 Params: `filename`, `height` and `width`
 
-        i.g: http://localhost:3000/imgapi/resize/?filename=sun.jpg&height=300&width=300
+        e.g: http://localhost:3000/imgapi/resize/?filename=sun.jpg&height=300&width=300
 
 ##### Availabe images
 
@@ -54,4 +54,4 @@ Params: `filename`, `height` and `width`
 
 ## Notes
 
-I have into some issues compitablty issues when i tried to update to npm 8 but it works just fine with npm 6
+I have ran into some compitablty issues when I tried to update to npm 8 but it works just fine with npm 6
