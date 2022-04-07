@@ -3,7 +3,7 @@ import imgAPI from './api/imgAPI';
 
 const mainEntry = express.Router();
 
-mainEntry.get('/', (req, res) => {
+mainEntry.get('/', (req: express.Request, res: express.Response): void => {
   res.send('Homepage!');
 });
 
