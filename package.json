@@ -32,7 +32,6 @@
     "jasmine": "^4.0.2",
     "jasmine-spec-reporter": "^7.0.0",
     "supertest": "^6.2.2"
-
   },
   "dependencies": {
     "express": "^4.17.3",
