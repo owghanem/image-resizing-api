@@ -7,7 +7,7 @@ The server was built with Node js and express. It was built to be scalable. It w
 
 ## Functionality
 
-To install all the dependancies:
+To install all dependancies:
 
 ```javaScript
 npm i
